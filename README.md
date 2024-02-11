@@ -1,6 +1,6 @@
 
 
-### Olá! eu sou o Pedro Pecly 😉
+### Eae! Meu nome é Pedro Pecly e esse é o meu perfil seja bem vindo 😉
 
 [![Social](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pedropecly_/)
 
