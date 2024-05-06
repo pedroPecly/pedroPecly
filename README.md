@@ -25,4 +25,4 @@
     
 </div><br/>
 
-- Nasci curioso e pretendo continuar sempre evoluindo
+Nasci curioso e pretendo continuar sempre evoluindo !
