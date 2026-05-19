@@ -1,6 +1,6 @@
 ### # Eae! Meu nome é Pedro Pecly e esse é o meu perfil seja bem vindo 😉
 
-[![Portfólio](https://img.shields.io/badge/Meu_Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-orcin-beta-50.vercel.app/)
+[![Portfólio](https://img.shields.io/badge/Portfólio-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-orcin-beta-50.vercel.app/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-henrique-pecly-gomes-096277308/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pedropecly_/)
 
