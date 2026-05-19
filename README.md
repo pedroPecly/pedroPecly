@@ -1,9 +1,8 @@
-
-
 ### # Eae! Meu nome é Pedro Pecly e esse é o meu perfil seja bem vindo 😉
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pedropecly_/)
+[![Portfólio](https://img.shields.io/badge/Meu_Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-orcin-beta-50.vercel.app/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-henrique-pecly-gomes-096277308/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pedropecly_/)
 
 ### # Tecnologias que eu tenho usado 🤙
 
@@ -17,7 +16,6 @@
     <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
     <img align="center" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
     <img align="center" alt="JAVA" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-    
 </div><br/>
 
 Nasci curioso e pretendo continuar sempre evoluindo !
